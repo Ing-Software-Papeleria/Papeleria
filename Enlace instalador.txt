@@ -1,0 +1,3 @@
+Profesor al momento de subir el instalador, el archivo sobre pasa el limite permitido por GitHub, asi que lo subi a drive y le mando el enlace.
+Enlace de la carpeta del Instalador:
+https://drive.google.com/drive/folders/1_-x4nC3JjO97w0kDUm-SDUraClBmAAPw?usp=sharing
